@@ -214,7 +214,7 @@ base_filters   = 16
 base_kernels   = (11,11)
 num_layers     = 8
 dropout_rate   = 0.04
-dilation       = (1,1)
+dilation       = (3,3)
 </pre>
 <b>Learning rate</b><br>
 Defined a small learning rate.  
