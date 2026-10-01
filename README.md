@@ -26,7 +26,7 @@ Edge_Detection masks in <b>MedicalExpert-I</b> of
 In this experiment, we aggregated the data originally categorized into four classes 
 (Doubtful, Mild, Moderate, and Severe) into two classes (<b>Doubtful_or_Mild</b> and <b>Moderate_or_Severe</b>) 
 for simplicity.
-<br><br> 
+<br>
 <hr>
 <b>Actual Image Segmentation for Knee X-Ray Images</b><br>
 As shown below, the inferred masks resemble the ground-truth masks. <br>
