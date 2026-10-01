@@ -327,7 +327,7 @@ dice_coef_hybrid,0.8404
 </pre>
 For comparison of the four grades case,
 please refer to <a href="https://github.com/sarah-antillia/TensorFlow-FlexUNet-Image-Segmentation-Knee-X-Ray-Edge-Detection">
-TensorFlow-FlexUNet-Image-Segmentation-Knee-X-Ray-Two-Classes-Edge-Detection</a>
+TensorFlow-FlexUNet-Image-Segmentation-Knee-X-Ray-Edge-Detection</a>
 <br><br>
 <h3>
 5. Inference
