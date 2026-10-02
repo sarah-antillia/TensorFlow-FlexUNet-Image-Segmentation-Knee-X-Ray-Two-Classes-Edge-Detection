@@ -353,7 +353,7 @@ This runs the following command.
 <br>
 <hr>
 <b>Enlarged images and masks for Knee-X-Ray Images</b><br>
-As shown below, the inferred masks look similar to the ground truth masks, but differ in the detailsc .<br>
+As shown below, the inferred masks look similar to the ground truth masks, but differ in the details.<br>
 <br>
 <b>class_color_map = {Doubtful_or_Mild: green, Moderate_or_Severe: dark_red)} </b><br><br>
 <table>
