@@ -413,7 +413,7 @@ Jian Pan, Yuangang Wu, Zhenchao Tang, Kaibo Sun, Mingyang Li, Jiayu Sun, Jiangan
 Sun-Woo Pi, Byoung-Dai Lee, Mu Sook Lee & Hae Jeong Lee <br>
 <a href="https://www.nature.com/articles/s41598-023-50210-4">https://www.nature.com/articles/s41598-023-50210-4</a>
 <br><br>
-<b>4. TensorFlow-FlexUNet-Image-Segmentation-Knee-X-Ray-Two-Classes-Edge-Detection </b><br>
+<b>4. TensorFlow-FlexUNet-Image-Segmentation-Knee-X-Ray-Edge-Detection </b><br>
 Toshiyuki Arai<br>
 <a href="https://github.com/sarah-antillia/TensorFlow-FlexUNet-Image-Segmentation-Knee-X-Ray-Edge-Detection">
 https://github.com/sarah-antillia/TensorFlow-FlexUNet-Image-Segmentation-Knee-X-Ray-Edge-Detection
